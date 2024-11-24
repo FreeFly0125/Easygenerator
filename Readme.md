@@ -6,11 +6,13 @@ Easygenerator Test Project
 
 ```
 cd backend
+yarn
 yarn start
 ```
 
 ```
 cd frontend
+yarn
 yarn dev
 ```
 

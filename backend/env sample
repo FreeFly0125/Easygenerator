@@ -1,0 +1,3 @@
+MONGODB_URI=mongodb://localhost:27017/easygenerator
+JWT_SECRET=easygenerator
+JWT_EXPIRES_IN=1d
