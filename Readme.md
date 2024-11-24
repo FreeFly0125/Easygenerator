@@ -39,3 +39,4 @@ yarn dev
 
 - Backend
   - Implement the back-end endpoints using the NestJS framework and integrate MongoDB as the database.
+  - Used JWT(Json Web Token) to secure the application.
