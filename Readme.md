@@ -4,6 +4,8 @@ Easygenerator Test Project
 
 # How to run the application
 
+Please create .env file in backend. I've pushed env smaple.
+
 ```
 cd backend
 yarn
